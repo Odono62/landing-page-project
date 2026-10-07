@@ -9,7 +9,7 @@ Nexora Digital is a fictional digital studio created to demonstrate frontend dev
 
 ## 🌐 Live Demo
 
-[View Live Website](https://odono62.git.io/landing-page-project/index.html)
+[View Live Website](https://odono62.github.io/landing-page-project/index.html)
 
 ---
 
